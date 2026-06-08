@@ -86,7 +86,7 @@ PCA_model_clustering.h5
 
 ## Cluster Interpretation
 
-![Cluster Summary](assets/cluster_summary.png)
+![Cluster Summary](assets/cluster_report.png)
 
 Each cluster was analyzed using:
 
